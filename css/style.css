@@ -423,7 +423,7 @@ footer {
 }
 
 .gif {
-  width: 320px;
+  width: 185px;
 }
 
 .header-try-one-btn {
@@ -532,7 +532,7 @@ footer {
     width: 80vw;
   }
   .gif {
-    margin-left: -65px;
+    margin-left: 0px;
     margin-bottom: 50px;
   }
   .card {
