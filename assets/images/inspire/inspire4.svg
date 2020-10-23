@@ -232,14 +232,14 @@
   <g id="inspire4" clip-path="url(#clip-inspire4)">
     <rect width="1440" height="5744" fill="#fff"/>
     <text id="_" data-name="&quot;" transform="translate(10 3025)" fill="#f22b4f" font-size="29" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">&quot;</tspan></text>
-    <g id="Rectangle_694" data-name="Rectangle 694" transform="translate(530 1909)" fill="none" stroke="#f22b4f" stroke-width="1" stroke-dasharray="4">
+    <g id="Rectangle_694" data-name="Rectangle 694" transform="translate(530 1886)" fill="none" stroke="#f22b4f" stroke-width="1" stroke-dasharray="4">
       <rect width="450" height="300" rx="10" stroke="none"/>
       <rect x="0.5" y="0.5" width="449" height="299" rx="9.5" fill="none"/>
     </g>
-    <rect id="Rectangle_695" data-name="Rectangle 695" width="409" height="251" transform="translate(587 1885)" fill="#fff"/>
-    <line id="Line_151" data-name="Line 151" y1="208" transform="translate(650.5 1871.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
-    <line id="Line_145" data-name="Line 145" y1="150" transform="translate(980.5 1846.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
-    <text id="Design" transform="translate(350 2316)" fill="#f22b4f" font-size="24" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">Design</tspan></text>
+    <rect id="Rectangle_695" data-name="Rectangle 695" width="409" height="251" transform="translate(587 1862)" fill="#fff"/>
+    <line id="Line_151" data-name="Line 151" y1="208" transform="translate(650.5 1848.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
+    <line id="Line_145" data-name="Line 145" y1="150" transform="translate(980.5 1823.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
+    <text id="Design" transform="translate(350 2313)" fill="#f22b4f" font-size="24" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">Design</tspan></text>
     <text id="Information_Architecture" data-name="Information Architecture" transform="translate(350 2371)" font-size="29" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">Information Architecture</tspan></text>
     <g id="New_User_Flow_4_" data-name="New User Flow (4)" transform="translate(253 2374.021)">
       <g id="Group_454" data-name="Group 454" transform="translate(28 28)">
@@ -711,93 +711,93 @@ Bold" transform="translate(974 5370)" fill="#323232" font-size="18" font-family=
     </g>
     <text id="INSPIRING_PEOPLE" data-name="INSPIRING 
 PEOPLE" transform="translate(895 588)" fill="#fff" font-size="9" font-family="ComicSansMS, Comic Sans MS"><tspan x="0" y="0">INSPIRING </tspan><tspan x="0" y="13">PEOPLE</tspan></text>
-    <text id="Task_flows" data-name="Task flows" transform="translate(350 1751)" font-size="29" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">Task Flows</tspan></text>
-    <text id="Task:_To_do_a_challenge_by_a_new_user_beginner_" data-name="Task: To do a challenge by a new user (beginner)" transform="translate(350 1797)" fill="#f22b4f" font-size="18" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">Task: To do a challenge by a new user (beginner)</tspan></text>
-    <g id="Rectangle_666" data-name="Rectangle 666" transform="translate(400.5 1822)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <text id="Task_flows" data-name="Task flows" transform="translate(350 1728)" font-size="29" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">Task Flows</tspan></text>
+    <text id="Task:_To_do_a_challenge_by_a_new_user_beginner_" data-name="Task: To do a challenge by a new user (beginner)" transform="translate(350 1774)" fill="#f22b4f" font-size="18" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">Task: To do a challenge by a new user (beginner)</tspan></text>
+    <g id="Rectangle_666" data-name="Rectangle 666" transform="translate(400.5 1799)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="155" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="154" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_667" data-name="Rectangle 667" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(400.5 1822)" fill="#ff7c48"/>
+    <path id="Rectangle_667" data-name="Rectangle 667" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(400.5 1799)" fill="#ff7c48"/>
     <text id="Choose_category_of_interest" data-name="Choose category 
-of interest" transform="translate(422.5 1845)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Choose category </tspan><tspan x="0" y="16">of interest</tspan></text>
-    <g id="Rectangle_668" data-name="Rectangle 668" transform="translate(592 1822)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+of interest" transform="translate(422.5 1822)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Choose category </tspan><tspan x="0" y="16">of interest</tspan></text>
+    <g id="Rectangle_668" data-name="Rectangle 668" transform="translate(592 1799)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_669" data-name="Rectangle 669" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 1822)" fill="#ff7c48"/>
-    <text id="Level_A" data-name="Level A" transform="translate(629 1853)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level A</tspan></text>
-    <g id="Rectangle_670" data-name="Rectangle 670" transform="translate(592 1884)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_669" data-name="Rectangle 669" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 1799)" fill="#ff7c48"/>
+    <text id="Level_A" data-name="Level A" transform="translate(629 1830)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level A</tspan></text>
+    <g id="Rectangle_670" data-name="Rectangle 670" transform="translate(592 1861)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_671" data-name="Rectangle 671" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 1884)" fill="#ff7c48"/>
-    <text id="Level_B" data-name="Level B" transform="translate(616 1915)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level B</tspan></text>
-    <g id="Rectangle_672" data-name="Rectangle 672" transform="translate(592 1946)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_671" data-name="Rectangle 671" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 1861)" fill="#ff7c48"/>
+    <text id="Level_B" data-name="Level B" transform="translate(616 1892)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level B</tspan></text>
+    <g id="Rectangle_672" data-name="Rectangle 672" transform="translate(592 1923)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_673" data-name="Rectangle 673" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 1946)" fill="#ff7c48"/>
-    <text id="Level_C" data-name="Level C" transform="translate(616 1977)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level C</tspan></text>
-    <g id="Rectangle_674" data-name="Rectangle 674" transform="translate(592 2008)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_673" data-name="Rectangle 673" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 1923)" fill="#ff7c48"/>
+    <text id="Level_C" data-name="Level C" transform="translate(616 1954)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level C</tspan></text>
+    <g id="Rectangle_674" data-name="Rectangle 674" transform="translate(592 1985)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_675" data-name="Rectangle 675" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 2008)" fill="#ff7c48"/>
-    <text id="Level_D" data-name="Level D" transform="translate(616 2039)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level D</tspan></text>
-    <g id="Rectangle_676" data-name="Rectangle 676" transform="translate(592 2070)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_675" data-name="Rectangle 675" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 1985)" fill="#ff7c48"/>
+    <text id="Level_D" data-name="Level D" transform="translate(616 2016)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level D</tspan></text>
+    <g id="Rectangle_676" data-name="Rectangle 676" transform="translate(592 2047)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_677" data-name="Rectangle 677" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 2070)" fill="#ff7c48"/>
-    <text id="Level_E" data-name="Level E" transform="translate(616 2101)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level E</tspan></text>
-    <path id="Icon_ionic-md-lock" data-name="Icon ionic-md-lock" d="M17.25,8.484H16.5v-1.5a3.75,3.75,0,1,0-7.5,0v1.5H8.25a1.5,1.5,0,0,0-1.5,1.5v7.5a1.5,1.5,0,0,0,1.5,1.5h9a1.5,1.5,0,0,0,1.5-1.5v-7.5A1.5,1.5,0,0,0,17.25,8.484Zm-4.5,6.825a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12.75,15.309Zm2.325-6.825h-4.65v-1.5a2.325,2.325,0,1,1,4.65,0Z" transform="translate(676.25 1897.547)" fill="#f22b4f"/>
-    <path id="Icon_ionic-md-lock-2" data-name="Icon ionic-md-lock" d="M17.25,8.484H16.5v-1.5a3.75,3.75,0,1,0-7.5,0v1.5H8.25a1.5,1.5,0,0,0-1.5,1.5v7.5a1.5,1.5,0,0,0,1.5,1.5h9a1.5,1.5,0,0,0,1.5-1.5v-7.5A1.5,1.5,0,0,0,17.25,8.484Zm-4.5,6.825a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12.75,15.309Zm2.325-6.825h-4.65v-1.5a2.325,2.325,0,1,1,4.65,0Z" transform="translate(676.25 1959.547)" fill="#f22b4f"/>
-    <path id="Icon_ionic-md-lock-3" data-name="Icon ionic-md-lock" d="M17.25,8.484H16.5v-1.5a3.75,3.75,0,1,0-7.5,0v1.5H8.25a1.5,1.5,0,0,0-1.5,1.5v7.5a1.5,1.5,0,0,0,1.5,1.5h9a1.5,1.5,0,0,0,1.5-1.5v-7.5A1.5,1.5,0,0,0,17.25,8.484Zm-4.5,6.825a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12.75,15.309Zm2.325-6.825h-4.65v-1.5a2.325,2.325,0,1,1,4.65,0Z" transform="translate(676.25 2021.547)" fill="#f22b4f"/>
-    <path id="Icon_ionic-md-lock-4" data-name="Icon ionic-md-lock" d="M17.25,8.484H16.5v-1.5a3.75,3.75,0,1,0-7.5,0v1.5H8.25a1.5,1.5,0,0,0-1.5,1.5v7.5a1.5,1.5,0,0,0,1.5,1.5h9a1.5,1.5,0,0,0,1.5-1.5v-7.5A1.5,1.5,0,0,0,17.25,8.484Zm-4.5,6.825a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12.75,15.309Zm2.325-6.825h-4.65v-1.5a2.325,2.325,0,1,1,4.65,0Z" transform="translate(676.25 2084.547)" fill="#f22b4f"/>
-    <g id="Rectangle_678" data-name="Rectangle 678" transform="translate(750 1822)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_677" data-name="Rectangle 677" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(592 2047)" fill="#ff7c48"/>
+    <text id="Level_E" data-name="Level E" transform="translate(616 2078)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Level E</tspan></text>
+    <path id="Icon_ionic-md-lock" data-name="Icon ionic-md-lock" d="M17.25,8.484H16.5v-1.5a3.75,3.75,0,1,0-7.5,0v1.5H8.25a1.5,1.5,0,0,0-1.5,1.5v7.5a1.5,1.5,0,0,0,1.5,1.5h9a1.5,1.5,0,0,0,1.5-1.5v-7.5A1.5,1.5,0,0,0,17.25,8.484Zm-4.5,6.825a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12.75,15.309Zm2.325-6.825h-4.65v-1.5a2.325,2.325,0,1,1,4.65,0Z" transform="translate(676.25 1874.547)" fill="#f22b4f"/>
+    <path id="Icon_ionic-md-lock-2" data-name="Icon ionic-md-lock" d="M17.25,8.484H16.5v-1.5a3.75,3.75,0,1,0-7.5,0v1.5H8.25a1.5,1.5,0,0,0-1.5,1.5v7.5a1.5,1.5,0,0,0,1.5,1.5h9a1.5,1.5,0,0,0,1.5-1.5v-7.5A1.5,1.5,0,0,0,17.25,8.484Zm-4.5,6.825a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12.75,15.309Zm2.325-6.825h-4.65v-1.5a2.325,2.325,0,1,1,4.65,0Z" transform="translate(676.25 1936.547)" fill="#f22b4f"/>
+    <path id="Icon_ionic-md-lock-3" data-name="Icon ionic-md-lock" d="M17.25,8.484H16.5v-1.5a3.75,3.75,0,1,0-7.5,0v1.5H8.25a1.5,1.5,0,0,0-1.5,1.5v7.5a1.5,1.5,0,0,0,1.5,1.5h9a1.5,1.5,0,0,0,1.5-1.5v-7.5A1.5,1.5,0,0,0,17.25,8.484Zm-4.5,6.825a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12.75,15.309Zm2.325-6.825h-4.65v-1.5a2.325,2.325,0,1,1,4.65,0Z" transform="translate(676.25 1998.547)" fill="#f22b4f"/>
+    <path id="Icon_ionic-md-lock-4" data-name="Icon ionic-md-lock" d="M17.25,8.484H16.5v-1.5a3.75,3.75,0,1,0-7.5,0v1.5H8.25a1.5,1.5,0,0,0-1.5,1.5v7.5a1.5,1.5,0,0,0,1.5,1.5h9a1.5,1.5,0,0,0,1.5-1.5v-7.5A1.5,1.5,0,0,0,17.25,8.484Zm-4.5,6.825a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12.75,15.309Zm2.325-6.825h-4.65v-1.5a2.325,2.325,0,1,1,4.65,0Z" transform="translate(676.25 2061.547)" fill="#f22b4f"/>
+    <g id="Rectangle_678" data-name="Rectangle 678" transform="translate(750 1799)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_679" data-name="Rectangle 679" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(750 1822)" fill="#ff7c48"/>
-    <text id="Challenge_1" data-name="Challenge 1" transform="translate(770 1853)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Challenge 1</tspan></text>
-    <g id="Rectangle_680" data-name="Rectangle 680" transform="translate(750 2004)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_679" data-name="Rectangle 679" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(750 1799)" fill="#ff7c48"/>
+    <text id="Challenge_1" data-name="Challenge 1" transform="translate(770 1830)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Challenge 1</tspan></text>
+    <g id="Rectangle_680" data-name="Rectangle 680" transform="translate(750 1981)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_681" data-name="Rectangle 681" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(750 2004)" fill="#ff7c48"/>
-    <text id="Challenge_N" data-name="Challenge N" transform="translate(770 2035)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Challenge N</tspan></text>
-    <line id="Line_140" data-name="Line 140" y2="112" transform="translate(808.5 1884.5)" fill="none" stroke="#f22b4f" stroke-width="1" stroke-dasharray="4"/>
-    <g id="Rectangle_682" data-name="Rectangle 682" transform="translate(922 1822)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_681" data-name="Rectangle 681" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(750 1981)" fill="#ff7c48"/>
+    <text id="Challenge_N" data-name="Challenge N" transform="translate(770 2012)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Challenge N</tspan></text>
+    <line id="Line_140" data-name="Line 140" y2="112" transform="translate(808.5 1861.5)" fill="none" stroke="#f22b4f" stroke-width="1" stroke-dasharray="4"/>
+    <g id="Rectangle_682" data-name="Rectangle 682" transform="translate(922 1799)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_683" data-name="Rectangle 683" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(922 1822)" fill="#ff7c48"/>
-    <text id="Description" transform="translate(944 1853)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Description</tspan></text>
-    <g id="Rectangle_684" data-name="Rectangle 684" transform="translate(922 1893)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_683" data-name="Rectangle 683" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(922 1799)" fill="#ff7c48"/>
+    <text id="Description" transform="translate(944 1830)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Description</tspan></text>
+    <g id="Rectangle_684" data-name="Rectangle 684" transform="translate(922 1870)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_685" data-name="Rectangle 685" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(922 1893)" fill="#ff7c48"/>
-    <text id="Resources" transform="translate(952 1924)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Resources</tspan></text>
-    <g id="Rectangle_686" data-name="Rectangle 686" transform="translate(922 1964)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_685" data-name="Rectangle 685" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(922 1870)" fill="#ff7c48"/>
+    <text id="Resources" transform="translate(952 1901)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Resources</tspan></text>
+    <g id="Rectangle_686" data-name="Rectangle 686" transform="translate(922 1941)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_687" data-name="Rectangle 687" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(922 1964)" fill="#ff7c48"/>
-    <text id="Do_now" data-name="Do now" transform="translate(955 1995)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Do now</tspan></text>
-    <g id="Rectangle_688" data-name="Rectangle 688" transform="translate(1093 2079)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_687" data-name="Rectangle 687" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(922 1941)" fill="#ff7c48"/>
+    <text id="Do_now" data-name="Do now" transform="translate(955 1972)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Do now</tspan></text>
+    <g id="Rectangle_688" data-name="Rectangle 688" transform="translate(1093 2056)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_689" data-name="Rectangle 689" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(1093 2079)" fill="#ff7c48"/>
-    <text id="Feed-2" data-name="Feed" transform="translate(1135 2110)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Feed</tspan></text>
-    <g id="Rectangle_690" data-name="Rectangle 690" transform="translate(921 2079)" fill="#fff" stroke="#f22b4f" stroke-width="1">
+    <path id="Rectangle_689" data-name="Rectangle 689" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(1093 2056)" fill="#ff7c48"/>
+    <text id="Feed-2" data-name="Feed" transform="translate(1135 2087)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Feed</tspan></text>
+    <g id="Rectangle_690" data-name="Rectangle 690" transform="translate(921 2056)" fill="#fff" stroke="#f22b4f" stroke-width="1">
       <rect width="117" height="50" rx="6" stroke="none"/>
       <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
     </g>
-    <path id="Rectangle_691" data-name="Rectangle 691" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(921 2079)" fill="#ff7c48"/>
-    <text id="Reward" transform="translate(954 2110)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Reward</tspan></text>
-    <g id="Group_487" data-name="Group 487" transform="translate(83 -9739)">
+    <path id="Rectangle_691" data-name="Rectangle 691" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(921 2056)" fill="#ff7c48"/>
+    <text id="Reward" transform="translate(954 2087)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Reward</tspan></text>
+    <g id="Group_487" data-name="Group 487" transform="translate(83 -9762)">
       <g id="Rectangle_692" data-name="Rectangle 692" transform="translate(161 11561)" fill="#fff" stroke="#f22b4f" stroke-width="1">
         <rect width="117" height="50" rx="6" stroke="none"/>
         <rect x="0.5" y="0.5" width="116" height="49" rx="5.5" fill="none"/>
@@ -805,38 +805,38 @@ of interest" transform="translate(422.5 1845)" fill="#323232" font-size="15" fon
       <path id="Rectangle_693" data-name="Rectangle 693" d="M5,0H5A0,0,0,0,1,5,0V50a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(161 11561)" fill="#ff7c48"/>
       <text id="Signup" transform="translate(194 11592)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Signup</tspan></text>
     </g>
-    <line id="Line_141" data-name="Line 141" x2="39.5" transform="translate(361.5 1848.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
-    <g id="Group_488" data-name="Group 488" transform="translate(-10684.701 2354.039) rotate(-90)">
+    <line id="Line_141" data-name="Line 141" x2="39.5" transform="translate(361.5 1825.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
+    <g id="Group_488" data-name="Group 488" transform="translate(-10684.701 2331.039) rotate(-90)">
       <line id="Line_142" data-name="Line 142" x2="4" y2="5" transform="translate(505.919 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
       <line id="Line_143" data-name="Line 143" x1="4" y2="5" transform="translate(509.918 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
     </g>
-    <line id="Line_144" data-name="Line 144" x2="37" transform="translate(555.5 1847.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
-    <g id="Group_489" data-name="Group 489" transform="translate(-10493.201 2353.039) rotate(-90)">
+    <line id="Line_144" data-name="Line 144" x2="37" transform="translate(555.5 1824.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
+    <g id="Group_489" data-name="Group 489" transform="translate(-10493.201 2330.039) rotate(-90)">
       <line id="Line_142-2" data-name="Line 142" x2="4" y2="5" transform="translate(505.919 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
       <line id="Line_143-2" data-name="Line 143" x1="4" y2="5" transform="translate(509.918 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
     </g>
-    <line id="Line_146" data-name="Line 146" x2="41" transform="translate(709.5 1847.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
-    <g id="Group_490" data-name="Group 490" transform="translate(-10335.201 2353.039) rotate(-90)">
+    <line id="Line_146" data-name="Line 146" x2="41" transform="translate(709.5 1824.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
+    <g id="Group_490" data-name="Group 490" transform="translate(-10335.201 2330.039) rotate(-90)">
       <line id="Line_142-3" data-name="Line 142" x2="4" y2="5" transform="translate(505.919 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
       <line id="Line_143-3" data-name="Line 143" x1="4" y2="5" transform="translate(509.918 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
     </g>
-    <line id="Line_147" data-name="Line 147" x2="55" transform="translate(867.5 1848.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
-    <g id="Group_491" data-name="Group 491" transform="translate(-10163.201 2354.039) rotate(-90)">
+    <line id="Line_147" data-name="Line 147" x2="55" transform="translate(867.5 1825.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
+    <g id="Group_491" data-name="Group 491" transform="translate(-10163.201 2331.039) rotate(-90)">
       <line id="Line_142-4" data-name="Line 142" x2="4" y2="5" transform="translate(505.919 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
       <line id="Line_143-4" data-name="Line 143" x1="4" y2="5" transform="translate(509.918 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
     </g>
-    <line id="Line_149" data-name="Line 149" x2="55" transform="translate(979.621 2014.621) rotate(90)" fill="none" stroke="#f22b4f" stroke-width="1"/>
-    <g id="Group_493" data-name="Group 493" transform="translate(474.082 -9016.08)">
+    <line id="Line_149" data-name="Line 149" x2="55" transform="translate(979.621 1991.621) rotate(90)" fill="none" stroke="#f22b4f" stroke-width="1"/>
+    <g id="Group_493" data-name="Group 493" transform="translate(474.082 -9039.08)">
       <line id="Line_142-5" data-name="Line 142" x2="4" y2="5" transform="translate(505.919 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
       <line id="Line_143-5" data-name="Line 143" x1="4" y2="5" transform="translate(509.918 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
     </g>
-    <line id="Line_150" data-name="Line 150" x2="55" transform="translate(1038 2105.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
-    <g id="Group_494" data-name="Group 494" transform="translate(-9992.701 2611.039) rotate(-90)">
+    <line id="Line_150" data-name="Line 150" x2="55" transform="translate(1038 2082.5)" fill="none" stroke="#f22b4f" stroke-width="1"/>
+    <g id="Group_494" data-name="Group 494" transform="translate(-9992.701 2588.039) rotate(-90)">
       <line id="Line_142-6" data-name="Line 142" x2="4" y2="5" transform="translate(505.919 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
       <line id="Line_143-6" data-name="Line 143" x1="4" y2="5" transform="translate(509.918 11085.62) rotate(-180)" fill="none" stroke="#f22b4f" stroke-linecap="round" stroke-width="1"/>
     </g>
-    <text id="Earn_enough_rewards_stars_points_to_unlock_the_next_level" data-name="Earn enough rewards (stars points) to unlock the next level" transform="translate(556 2197)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Earn enough rewards (stars points) to unlock the next level</tspan></text>
-    <g id="Group_516" data-name="Group 516" transform="translate(-50.25 -15296)">
+    <text id="Earn_enough_rewards_stars_points_to_unlock_the_next_level" data-name="Earn enough rewards (stars points) to unlock the next level" transform="translate(556 2174)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Earn enough rewards (stars points) to unlock the next level</tspan></text>
+    <g id="Group_516" data-name="Group 516" transform="translate(-50.25 -15319)">
       <text id="Level_A_Level_B_Level_C_Level_D_Level_E" data-name="Level A
 Level B
 Level C
@@ -868,7 +868,7 @@ Level E" transform="translate(328 17282)" fill="#323232" font-size="15" font-fam
     </g>
     <text id="Any_challenge_of_level_A_will_earn_1_star_Any_challenge_of_level_B_will_earn_2_star_and_so_on_" data-name="Any challenge of level A will earn 1 star
 Any challenge of level B will earn 2 star
-… and so on!" transform="translate(244 2140)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Any challenge of level A will earn 1 star</tspan><tspan x="0" y="30">Any challenge of level B will earn 2 star</tspan><tspan x="0" y="60">… and so on!</tspan></text>
+… and so on!" transform="translate(244 2117)" fill="#323232" font-size="15" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Any challenge of level A will earn 1 star</tspan><tspan x="0" y="30">Any challenge of level B will earn 2 star</tspan><tspan x="0" y="60">… and so on!</tspan></text>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#iPhone_X-XS-11_Pro_1)">
       <g id="iPhone_X-XS-11_Pro_1-2" data-name="iPhone X-XS-11 Pro – 1" transform="translate(302 3558)" stroke="#8b8b8b" stroke-width="1" fill="url(#pattern-9)">
         <rect width="177" height="383.264" stroke="none"/>
@@ -945,7 +945,6 @@ Any challenge of level B will earn 2 star
     <text id="Stats-2" data-name="Stats" transform="translate(523 4545)" fill="#f22b4f" font-size="18" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">Stats</tspan></text>
     <text id="Column-width:_74px_Gutter_Width:_17px" data-name="Column-width: 74px
 Gutter Width: 17px" transform="translate(500 5521)" fill="#323232" font-size="18" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="15">Column-width: </tspan><tspan y="15" fill="#f22b4f">74px</tspan><tspan x="0" y="45">Gutter Width: </tspan><tspan y="45" fill="#f22b4f">17px</tspan></text>
-    <rect id="Rectangle_760" data-name="Rectangle 760" width="1482" height="370" transform="translate(-30 1311)" fill="#fcf8f9"/>
     <text id="Key_Factors" data-name="Key Factors" transform="translate(352 1366)" font-size="29" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">Key Factors</tspan></text>
     <text id="Following_factors_were_kept_in_mind_while_further_designing_the_app." data-name="Following factors were kept in mind while further designing the app." transform="translate(352 1412)" fill="#323232" font-size="18" font-family="CircularStd-Book, Circular Std Book"><tspan x="0" y="0">Following factors were kept in mind while further designing the app.</tspan></text>
     <circle id="Ellipse_208" data-name="Ellipse 208" cx="29" cy="29" r="29" transform="translate(353 1450)" fill="#f22b4f"/>
