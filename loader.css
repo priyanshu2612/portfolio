@@ -63,10 +63,10 @@
 	width: 332px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Muli;z-index: -1;
+	font-family: Circular Std Book;z-index: -1;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 30px;
+	font-size: 28px;
 	color: rgba(35,35,35,1);animation-name: example;
     animation-duration: .6s;
     animation-fill-mode: forwards; animation-delay: 2.3s;
@@ -175,9 +175,9 @@
 	width: 269px;opacity: 0;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Muli;
+	font-family: Circular Std Book;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: lighter;
 	font-size: 30px;
 	color: rgba(35,35,35,1);animation:signup-response 0.5s 1;
     -webkit-animation:signup-response 0.5s 1;
@@ -207,9 +207,9 @@
 	width: 269px;opacity: 0;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Muli;
+	font-family: Circular Std Book;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: lighter;
 	font-size: 25px;
 	color: rgba(35,35,35,1);animation:signup-response 0.5s 1;
     -webkit-animation:signup-response 0.5s 1;
@@ -228,9 +228,9 @@
 	width: 332px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Muli;z-index: -1;
+	font-family: Circular Std Book;z-index: -1;
 	font-style: normal;
-	font-weight: lighter;
+	font-weight: 100;
 	font-size: 25px;
 	color: rgba(35,35,35,1);animation-name: example;
     animation-duration: .6s;

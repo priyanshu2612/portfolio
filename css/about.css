@@ -177,6 +177,11 @@ body {
   background: url("../assets/images/grid-bg.png");
 }
 
+.features-heading {
+  margin: 60px 0px;
+  font-size: 37px;
+}
+
 .img-rocket {
   margin-top: -60px;
   margin-left: 130px;
@@ -316,7 +321,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 100px 0px;
+  padding: 10px 0px;
 }
 
 .experience-section {
@@ -330,7 +335,7 @@ body {
 }
 
 .exp-description {
-  margin: 50px 0;
+  margin: 25px 0;
 }
 
 .story-section {
@@ -343,7 +348,8 @@ body {
 }
 
 .story-images-info {
-  margin: 50px 0;
+  margin-top: 40px;
+  margin-bottom: 75px; 
   color: black;
 }
 
@@ -410,6 +416,17 @@ footer {
   background: url("../assets/images/grid-bg.png");
   margin: 200px auto;
 }
+.features-heading {
+    font-size: 32px;
+    margin-top:  70px;
+    margin-bottom: 30px;
+  }
+
+.features-heading1 {
+    font-size: 32px;
+    margin-top:  90px;
+    margin-bottom: 40px;
+  }
 
 .header-try {
   height: 300px;
@@ -503,6 +520,17 @@ footer {
   .nav__section-logo-1 {
     left: 44px;
     top: -10px;
+  }
+  .features-heading {
+    font-size: 32px;
+    margin-top:  22px;
+    margin-bottom: 20px;
+  }
+
+.features-heading1 {
+    font-size: 32px;
+    margin-top:  50px;
+    margin-bottom: 20px;
   }
 
   .nav__section-logo-2 {
