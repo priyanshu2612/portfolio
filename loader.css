@@ -6,6 +6,12 @@
 	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
 }
+
+
+@font-face {
+  font-family: "Circular Std Book";
+  src: url("../assets/fonts/circularstd-book.otf");
+}
 :root {
 	--web-view-ids: loader;
 }
@@ -34,7 +40,7 @@
 	--web-enable-deep-linking: true;
 	animation-name: examplex;
     animation-duration: .4s;
-    animation-fill-mode: forwards; animation-delay: 2.7s;
+    animation-fill-mode: forwards; animation-delay: 3s;
 }
 @keyframes examplex {
   0%   {opacity: 1;}
@@ -126,7 +132,7 @@
 	animation-name: exampleblue;
 	animation-duration: 5s;
 	animation-fill-mode: forwards;
-	animation-delay: 2.9s;
+	animation-delay: 3.2s;
 }
 @keyframes exampleblue {
   0%   { left:0px; top:100%;}
@@ -145,7 +151,7 @@
 	animation-name: exampleblue;
 	animation-duration: 5s;
 	animation-fill-mode: forwards;
-	animation-delay: 3.1s;
+	animation-delay: 3.3s;
 }
 #PB {
 	position: absolute;
